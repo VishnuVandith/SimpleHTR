@@ -1,4 +1,7 @@
-from __future__ import division
+#mini project By Vishnu Vandith Guntupalli
+#Hand text Recognition using TensorFlow
+
+rom __future__ import division
 from __future__ import print_function
 
 import sys
